@@ -40,7 +40,8 @@
 > app_key = YOUR CONSUMER KEY  
 > app_secret = YOUR CONSUMER SECRET  
 > oauth_token = YOUR ACCESS TOKEN  
-> oauth_token_secret = YOUR ACCESS TOKEN SECRET```
+> oauth_token_secret = YOUR ACCESS TOKEN SECRET
+> ```
 
 這裡附上我的[credentials.txt](./twitter-files/credentials.txt)
 
